@@ -4,7 +4,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Mahin Shaik</h1>
+        <h1>Shaik Mahin</h1>
         <p>B.Tech CSE Student | Aspiring Full Stack Developer</p>
       </header>
 
